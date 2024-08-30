@@ -4,8 +4,6 @@
 
 A smooth and interactive login page animation built using HTML, CSS, and JavaScript. This project is designed to enhance the user experience with a visually appealing login interface.
 
-![Login Animation Screenshot](https://aditikute24.github.io/Login-Animation/screenshot.png)
-
 ## Table of Contents
 
 - [Features](#features)
